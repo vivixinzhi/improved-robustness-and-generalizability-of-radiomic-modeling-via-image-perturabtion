@@ -1,0 +1,4 @@
+,Contrast,A,B,Paired,Parametric,T,dof,Tail,p-unc,BF10,hedges
+0,variable,Original ICC score,Robustness 0.75 ICC score,True,True,-12.313174918403302,59.0,two-sided,6.0334062189945095e-18,9.336e+14,-1.8697409868810602
+1,variable,Original ICC score,Robustness 0.95 ICC score,True,True,-22.586457300128334,59.0,two-sided,9.968001011583658e-31,2.803e+27,-4.231332638233354
+2,variable,Robustness 0.75 ICC score,Robustness 0.95 ICC score,True,True,-18.03162895673199,59.0,two-sided,1.1150793422027426e-25,3.222e+22,-3.1813793454266652
